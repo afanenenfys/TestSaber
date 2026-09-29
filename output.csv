@@ -1,0 +1,36 @@
+customer_id,name,email,total_spend,social_handle,success,reason
+108,William Allen,notfound21@example.com,2665.54,,False,Profile not found
+146,Christopher Sanchez,christophersanchez@company.com,2840.71,@christophersanchez_social,True,Submission received and validated.
+182,Jennifer Flores,notfound27@example.com,2645.56,,False,Profile not found
+207,Carol Robinson,carol_robinson@gmail.com,3258.36,@carol_robinson_social,True,Submission received and validated.
+215,Elizabeth Brown,elizabeth_brown@company.com,2895.41,@elizabeth_brown_social,True,Submission received and validated.
+281,Ruth White,ruthwhite@yahoo.com,1616.8,@ruthwhite_social,True,Submission received and validated.
+349,Paul White,paulwhite@gmail.com,234.05,@paulwhite_social,True,Submission received and validated.
+397,Daniel White,danielwhite@yahoo.com,1433.48,@danielwhite_social,True,Submission received and validated.
+411,James Lee,james_lee@hotmail.com,958.21,@james_lee_social,True,Submission received and validated.
+453,Paul Anderson,paul_anderson@example.com,2944.01,@paul_anderson_social,True,Submission received and validated.
+460,Patricia Robinson,patricia_robinson@yahoo.com,48.79,@patricia_robinson_social,True,Submission received and validated.
+466,Nancy Lee,nancy_lee@gmail.com,1217.67,@nancy_lee_social,True,Submission received and validated.
+470,Joshua Brown,joshua_brown@yahoo.com,2148.38,@joshua_brown_social,True,Submission received and validated.
+668,Ruth Ramirez,ruth_ramirez@yahoo.com,3385.38,@ruth_ramirez_social,True,Submission received and validated.
+676,Mark Lewis,marklewis@hotmail.com,2473.18,@marklewis_social,True,Submission received and validated.
+782,Jennifer Brown,jennifer.brown@hotmail.com,2104.59,@jennifer_brown_social,True,Submission received and validated.
+809,Betty Hill,bettyhill@hotmail.com,2862.29,@bettyhill_social,True,Submission received and validated.
+861,Barbara Martin,barbara_martin@gmail.com,2627.89,@barbara_martin_social,True,Submission received and validated.
+865,Elizabeth Harris,notfound28@example.com,1255.12,,False,Profile not found
+885,Sandra Perez,sandra.perez@example.com,1004.51,@sandra_perez_social,True,Submission received and validated.
+903,Richard Sanchez,richard.sanchez@gmail.com,3555.82,@richard_sanchez_social,True,Submission received and validated.
+B172,Sandra Ramirez,sandra_ramirez@outlook.com,2212.16,@sandra_ramirez_social,True,Submission received and validated.
+B372,Anthony King,notfound25@example.com,2147.35,,False,Profile not found
+B512,Joseph Wilson,notfound29@example.com,663.19,,False,Profile not found
+B538,Joseph Anderson,joseph.anderson@hotmail.com,4092.27,@joseph_anderson_social,True,Submission received and validated.
+C175,Karen Lewis,karenlewis@example.com,583.75,@karenlewis_social,True,Submission received and validated.
+C375,Daniel Hill,daniel.hill@yahoo.com,1950.23,@daniel_hill_social,True,Submission received and validated.
+C397,William Harris,william.harris@hotmail.com,1954.92,@william_harris_social,True,Submission received and validated.
+D347,Steven Moore,steven_moore@example.com,1464.62,@steven_moore_social,True,Submission received and validated.
+D437,Steven Smith,steven_smith@outlook.com,509.81,@steven_smith_social,True,Submission received and validated.
+D501,Ruth Flores,notfound3@example.com,3485.63,,False,Profile not found
+D622,James Wilson,james.wilson@hotmail.com,1405.78,@james_wilson_social,True,Submission received and validated.
+D696,Mary Hernandez,maryhernandez@gmail.com,1141.89,@maryhernandez_social,True,Submission received and validated.
+E342,Anthony White,notfound1@example.com,3160.34,,False,Profile not found
+E881,Charles Martinez,charles.martinez@outlook.com,5177.03,@charles_martinez_social,True,Submission received and validated.
